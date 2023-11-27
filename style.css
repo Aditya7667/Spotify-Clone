@@ -68,6 +68,7 @@ body{
  margin-top: 10px;
 }
 
+
 .icon i{
     width:9px;
     margin: 13px 24px;
@@ -87,6 +88,8 @@ body{
     font-weight: bold;
     padding: 6px 28px;
 }
+
+
 .songitem i{
     cursor: pointer;
 }
